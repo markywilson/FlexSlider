@@ -162,3 +162,10 @@ Description to be added.
 
 ### allowOneSlide: *{new}*
 Boolean. Whether or not you'd like FlexSlider to initialize as usual if only one slide is present.
+
+
+### added: *{new}*
+`destroy()` destroy method for flexslider.
+
+### added: *{new}*
+`rtl` adds RTL functionality to flexslider.
