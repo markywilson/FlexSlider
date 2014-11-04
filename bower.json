@@ -1,0 +1,24 @@
+{
+  "name": "FlexSlider-RTL",
+  "version": "2.2.2",
+  "homepage": "https://github.com/markywilson/FlexSlider-RTL",
+  "authors": [
+    "markyohanna <markyohanna91@gmail.com>"
+  ],
+  "description": "RTL version for FlexsSlider",
+  "main": "jquery.flexslider-min.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "flexslider",
+    "rtl",
+    "arabic",
+    "rtl",
+    "carousel",
+    "persian",
+    "hebrew",
+    "slider"
+  ],
+  "license": "MIT"
+}
